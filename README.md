@@ -3,7 +3,8 @@ vpc - done
 ec2 - in progress -
 windows for dc,
 linux for Monitoring (grafana & Prometheus),
-linux to run container using docker.
+linux to run container using docker,
+intance for fortigate (firewall)
 
 # AWS Infrastructure Replication – Hospital Ampang 
 
