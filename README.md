@@ -1,6 +1,9 @@
 vpc - done
 
-ec2 - in progress
+ec2 - in progress -
+windows for dc,
+linux for Monitoring (grafana & Prometheus),
+linux to run container using docker.
 
 # AWS Infrastructure Replication – Hospital Ampang 
 
