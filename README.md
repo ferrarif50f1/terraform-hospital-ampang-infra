@@ -14,6 +14,7 @@ This repository contains the **Infrastructure as Code (IaC)** implementation usi
 
 The primary objective of this project is to serve as a **Proof-of-Concept (PoC)** and foundational model, demonstrating the automated deployment, network segmentation, and resource provisioning based on the approved **Ministry of Health (MOH) / Kementerian Kesihatan Malaysia (KKM)** final System Design Document (SDD).
 
+## Diagram
 
 -------
 # Infrastructure Servers - Hospital Ampang
