@@ -2,7 +2,7 @@
 
 ## Summary
 
-This repository contains the **Infrastructure as Code (IaC)** implementation using **Terraform** to replicate the core infrastructure architecture of **Hospital Ampang** in an Amazon Web Services (AWS) cloud environment. 
+his repository contains the **Infrastructure as Code (IaC)** implementation using **Terraform** to replicate the core infrastructure architecture of **Hospital Ampang** in an Amazon Web Services (AWS) cloud environment. 
 
 The primary objective of this project is to serve as a **Proof-of-Concept (PoC)** and foundational model, demonstrating the automated deployment, network segmentation, and resource provisioning based on the approved **Ministry of Health (MOH) / Kementerian Kesihatan Malaysia (KKM)** final System Design Document (SDD).
 
